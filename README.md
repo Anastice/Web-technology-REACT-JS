@@ -1,1 +1,4 @@
-# Web-technology-REACT-JS
+# Не забудь поставить звезду <3
+
+### npm install
+### npm start
